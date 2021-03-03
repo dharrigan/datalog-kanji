@@ -1,2 +1,5 @@
-{:kanji :漢字 :freq 1 :readings_on ["形声文字"]}
-{:kanji :漢 :freq 1 :readings_on ["形字"]}
+;;
+;; Data
+;;
+[{:kanji :漢字 :freq 1 :readings_on ["形声文字"]}
+ {:kanji :漢 :freq 33 :readings_on ["形字"]}]
